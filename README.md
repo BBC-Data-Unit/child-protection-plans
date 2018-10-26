@@ -25,4 +25,4 @@ In October 2018 we [reported that an average of 188 children a day in England we
 
 * Bar chart: Areas with the highest rates of child protection plans
 * Table: Rise in child protection plans
-* Multiple column chart: Rise in child protection cases
+* Multiple column chart: Rise in child protection cases (generated using the R package ggplot2)
